@@ -38,3 +38,7 @@ The robot used with this code, had the Infrared sensor looking at the front, the
 ### Avoiding Walls
 
 ![](robot1.GIF)
+
+### Following the lines
+
+![](robot2.GIF)
