@@ -34,3 +34,7 @@ The robot used in this project was from Lego Mindstorms EV3.
 The program was written in Java and the lejos library was used to program the robot.
 
 The robot used with this code, had the Infrared sensor looking at the front, the Ultrasonic sensor looking at the back, the Colour sensor looking at the ground and the Gyro sensor on the main body. Two big Motors where used for the movement.
+
+### Avoiding Walls
+
+![](robot1.GIF)
